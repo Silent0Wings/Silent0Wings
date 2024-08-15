@@ -25,8 +25,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/yahya-belgharbi-844b9b79/">LinkedIn</a> | 
-  <a href="mailto:y_belgha@live.concordia.ca">Email</a> | 
   <a href="https://github.com/Silent0Wings">GitHub</a>
 </p>
 
