@@ -2,7 +2,7 @@
 
 ### 💻 **Computer Science Student | Software Developer | Tech Enthusiast**
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Canada</h3>
 
 ---
 
