@@ -9,7 +9,8 @@
 ### 🚀 **About Me**
 - 🎓 **Education:** Pursuing a Bachelor's degree in [Computer Science at Concordia University, Montreal](https://www.concordia.ca/academics/undergraduate/computer-science.html).
 - 🌟 **Objective:** I am eager to start my career in software development, with a passion for coding, problem-solving, and creating high-quality software. I'm dedicated to making a meaningful impact in the tech world.
-- 💡 **Interests:** I am particularly interested in **AI**, **Game Development**, and **Security**. My projects often revolve around these areas, where I continuously seek to expand my knowledge and expertise.
+- 💡 **Interests:** I am particularly interested in **AI**, **Game Development**, **Security**, and **Mobile & Desktop Development**. My projects often revolve around these areas, where I continuously seek to expand my knowledge and 
+
 
 ---
 
