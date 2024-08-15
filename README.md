@@ -4,6 +4,8 @@
 
 <h3 align="center">A passionate developer from Canada</h3>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silent0wings&show_icons=true&locale=en" alt="silent0wings" /></p>
+
 ---
 
 ### 🚀 **About Me**
@@ -70,7 +72,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=silent0wings&show_icons=true&locale=en&layout=compact" alt="silent0wings" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silent0wings&show_icons=true&locale=en" alt="silent0wings" /></p>
 
 ---
 
