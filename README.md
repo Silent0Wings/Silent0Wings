@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yahya Belgharbi
+# 👋 Hi, I'm Silent0Wings
 
 ### 💻 **Computer Science Student | Software Developer | Tech Enthusiast**
 
