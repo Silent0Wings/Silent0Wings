@@ -31,6 +31,10 @@
   </a> 
 </p>
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silent0wings&show_icons=true&locale=en" alt="silent0wings" /></p> 
+
+
 <h3 align="center">Connect with Me</h3>
 <p align="center">
   <a href="https://github.com/Silent0Wings">GitHub</a>
@@ -71,7 +75,6 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silent0wings&show_icons=true&locale=en" alt="silent0wings" /></p> 
 
 ---
 
