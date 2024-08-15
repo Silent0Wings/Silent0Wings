@@ -3,7 +3,6 @@
 ### 💻 **Computer Science Student | Software Developer | Tech Enthusiast**
 
 <h3 align="center">A passionate developer from Canada</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=silent0wings&show_icons=true&locale=en&layout=compact" alt="silent0wings" /></p>
 
 
 ---
@@ -47,6 +46,7 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
   </a> 
 </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=silent0wings&show_icons=true&locale=en&layout=compact" alt="silent0wings" /></p>
 
 ---
 
