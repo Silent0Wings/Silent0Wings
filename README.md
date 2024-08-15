@@ -15,7 +15,7 @@
 ### 🛠️ **Tech Stack**
 - **Languages:** Java, C#/C/C++, Assembly, JavaScript, HTML/CSS
 - **Frameworks & Tools:** Unity, Git, GitHub, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse, Blender (3D)
-- **Operating Systems:** Windows Vista to 11, Windows Server 2016 to 2019, Linux, Mac, Mobile
+- **Operating Systems:** Windows Vista to 11, Windows Server 2016 to 2019, Linux ( Ubuntu / Kali / Raspbian ....) , Mac, Mobile
 - **Problem-Solving:** Strong analytical and problem-solving skills.
 - **Extras:** Basic 3D modeling, sculpting, and texturing, Basic encryption implementation/GUI design.
 
