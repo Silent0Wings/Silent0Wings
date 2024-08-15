@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 **About Me**
-- 🎓 **Education:** Pursuing a Bachelor's degree in Computer Science at Concordia University, Montreal.
+- 🎓 **Education:** Pursuing a Bachelor's degree in [Computer Science at Concordia University](https://www.concordia.ca/academics/undergraduate/computer-science.html), Montreal.
 - 💼 **Objective:** Eager to start a career in software development, applying my strong coding skills and problem-solving abilities to create high-quality software solutions. Passionate about technology and committed to making a meaningful impact in the field.
 
 ---
