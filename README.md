@@ -14,32 +14,6 @@
 - 💡 **Interests:** I am particularly interested in **AI**, **Game Development**, **Security**, and **Mobile & Desktop Development**. My projects often revolve around these areas, where I continuously seek to expand my knowledge and 
 
 
----
-
-### 🛠️ **Tech Stack**
-- **Languages:** Java, C#/C/C++, Assembly, JavaScript, HTML/CSS
-- **Frameworks & Tools:** Unity, Git, GitHub, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse, Blender (3D)
-- **Operating Systems:** Windows Vista to 11, Windows Server 2016 to 2019, Linux (Ubuntu / Kali / Raspbian), macOS
-- **Problem-Solving:** Known for strong analytical and problem-solving skills with a focus on clean and efficient code.
-- **Extras:** Experience in 3D modeling, sculpting, and texturing, as well as basic encryption and GUI design.
-
----
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=silent0wings" alt="silent0wings" />
-  </a> 
-</p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silent0wings&show_icons=true&locale=en" alt="silent0wings" /></p> 
-
-
-<h3 align="center">Connect with Me</h3>
-<p align="center">
-  <a href="https://github.com/Silent0Wings">GitHub</a>
-</p>
-
 <h3 align="center">Languages and Tools</h3>
 <p align="center"> 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
@@ -73,6 +47,33 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
   </a> 
 </p>
+
+---
+
+### 🛠️ **Tech Stack**
+- **Languages:** Java, C#/C/C++, Assembly, JavaScript, HTML/CSS
+- **Frameworks & Tools:** Unity, Git, GitHub, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse, Blender (3D)
+- **Operating Systems:** Windows Vista to 11, Windows Server 2016 to 2019, Linux (Ubuntu / Kali / Raspbian), macOS
+- **Problem-Solving:** Known for strong analytical and problem-solving skills with a focus on clean and efficient code.
+- **Extras:** Experience in 3D modeling, sculpting, and texturing, as well as basic encryption and GUI design.
+
+---
+
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=silent0wings" alt="silent0wings" />
+  </a> 
+</p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silent0wings&show_icons=true&locale=en" alt="silent0wings" /></p> 
+
+
+<h3 align="center">Connect with Me</h3>
+<p align="center">
+  <a href="https://github.com/Silent0Wings">GitHub</a>
+</p>
+
 
 
 
