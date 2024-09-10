@@ -4,6 +4,11 @@
 
 <h3 align="center">A passionate developer from Canada</h3>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Silent0Wings/count.svg?"  />
+</div>
+
+###
 
 ---
 
