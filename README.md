@@ -79,11 +79,6 @@
   <a href="https://github.com/Silent0Wings">GitHub</a>
 </p>
 
-
-<img src="https://raw.githubusercontent.com/Silent0Wings/Silent0Wings/output/snake.svg" alt="Snake animation" />
-
-###
-
 ---
 
 <p align="center">Let's connect and collaborate on exciting projects!</p>
