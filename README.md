@@ -75,11 +75,6 @@
 </p>
 
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Silent0Wings/Silent0Wings/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 ---
