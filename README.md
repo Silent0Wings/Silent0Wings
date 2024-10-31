@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Silent0Wings
 
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="yahya-bel" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/yahya-bel?trk=profile-badge">Yahya Bel</a></div>
+
+
+
 ### 💻 **Computer Science Student | Software Developer | Tech Enthusiast**
 
 <h3 align="center">A passionate developer from Canada</h3>
