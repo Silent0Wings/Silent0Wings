@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Silent0Wings
 
-<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="yahya-bel" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/yahya-bel?trk=profile-badge">Yahya Bel</a></div>
+
 
 ## Connect with Me on LinkedIn
-[![LinkedIn Profile](https://raw.githubusercontent.com/your-username/repo-name/main/linkedin-badge.png)](https://www.linkedin.com/in/yahya-bel)
-
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="yahya-bel" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/yahya-bel?trk=profile-badge">Yahya Bel</a></div>
 
 ### 💻 **Computer Science Student | Software Developer | Tech Enthusiast**
 
