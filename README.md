@@ -14,6 +14,7 @@
 
 ### 🚀 **About Me**
 - 🎓 **Education**: Pursuing a Bachelor's degree in [Computer Science at Concordia University, Montreal](https://www.concordia.ca/academics/undergraduate/computer-science.html).
+  - [Program Structure](https://www.concordia.ca/academics/undergraduate/calendar/current/section-71-gina-cody-school-of-engineering-and-computer-science/section-71-70-department-of-computer-science-and-software-engineering/section-71-70-2-degree-requirements-bcompsc-.html)
 - 🌐 **Background**: Moroccan with Canadian permanent residency, dedicated to leveraging technical skills to solve real-world problems.
 - 🌟 **Objective**: Aspiring to make a meaningful impact in software development, driven by continuous learning and hands-on project work.
 - 💡 **Interests**: AI, Game Development, Security, and Mobile/Desktop Development.
