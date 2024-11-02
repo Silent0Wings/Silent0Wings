@@ -71,7 +71,7 @@
   Developed a Java-based password manager with AES 256-bit encryption for secure multi-platform use.  
   *Key Concepts*: Encryption, CLI, customizable UI.
 
-  - **[Dynamic Bridge Builder](https://github.com/Silent0Wings/DynamicBridgeBuilder-Procedural-Generation-Toolkit-for-Unity)** | C#, Unity  
+- **[Dynamic Bridge Builder](https://github.com/Silent0Wings/DynamicBridgeBuilder-Procedural-Generation-Toolkit-for-Unity)** | C#, Unity  
   A toolkit for procedural bridge generation with real-time physics-based adaptability.
 
 - **[Unity Pathfinders Visualizer](https://github.com/Silent0Wings/Unity-Pathfinders-Visualizer)** | C#, Unity  
