@@ -71,23 +71,20 @@
   Developed a Java-based password manager with AES 256-bit encryption for secure multi-platform use.  
   *Key Concepts*: Encryption, CLI, customizable UI.
 
-- **[Client Profile Chat Manager](https://github.com/Silent0Wings/ChatManager)** | Java  
-  An efficient client profile management tool with data validation and modular architecture.
-
-- **[TA Management System](https://github.com/Silent0Wings/TA-Management-System)** | C++  
-  Manages and validates teaching assistant records with a focus on data processing.
+  - **[Dynamic Bridge Builder](https://github.com/Silent0Wings/DynamicBridgeBuilder-Procedural-Generation-Toolkit-for-Unity)** | C#, Unity  
+  A toolkit for procedural bridge generation with real-time physics-based adaptability.
 
 - **[Unity Pathfinders Visualizer](https://github.com/Silent0Wings/Unity-Pathfinders-Visualizer)** | C#, Unity  
   Visualized BFS, DFS, and Swarm algorithms in Unity, showcasing AI and graph traversal techniques.
+
+- **[Client Profile Chat Manager](https://github.com/Silent0Wings/ChatManager)** | Java  
+  An efficient client profile management tool with data validation and modular architecture.
 
 - **[Auto Object Pooler](https://github.com/Silent0Wings/Unity-SimpleObjectPooler)** | C#, Unity  
   Enhanced performance with an object pooling system for resource management.
 
 - **[Hybrid Caesar Cipher Encryption System](https://github.com/Silent0Wings/Hybrid-Caesar-Cipher-Encryption-System)** | Java  
   Advanced Caesar cipher with additional security layers for data encryption.
-
-- **[Dynamic Bridge Builder](https://github.com/Silent0Wings/DynamicBridgeBuilder-Procedural-Generation-Toolkit-for-Unity)** | C#, Unity  
-  A toolkit for procedural bridge generation with real-time physics-based adaptability.
 
 ---
 
