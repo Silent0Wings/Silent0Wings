@@ -1,27 +1,24 @@
 # 👋 Hi, I'm Silent0Wings
 
-
-
-## Connect with Me on LinkedIn
-<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="yahya-bel" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/yahya-bel?trk=profile-badge">Yahya Bel</a></div>
-
-### 💻 **Computer Science Student | Software Developer | Tech Enthusiast**
-
-<h3 align="center">A passionate developer from Canada</h3>
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Silent0Wings/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Silent0Wings/count.svg?" />
 </div>
 
-###
+---
+
+## 💻 **Computer Science Student | Software Developer | Tech Enthusiast**
+
+<h3 align="center">A passionate developer from Canada with Moroccan roots</h3>
 
 ---
 
 ### 🚀 **About Me**
-- 🎓 **Education:** Pursuing a Bachelor's degree in [Computer Science at Concordia University, Montreal](https://www.concordia.ca/academics/undergraduate/computer-science.html).
-- 🌟 **Objective:** I am eager to start my career in software development, with a passion for coding, problem-solving, and creating high-quality software. I'm dedicated to making a meaningful impact in the tech world.
-- 💡 **Interests:** I am particularly interested in **AI**, **Game Development**, **Security**, and **Mobile & Desktop Development**. My projects often revolve around these areas, where I continuously seek to expand my knowledge and 
+- 🎓 **Education**: Pursuing a Bachelor's degree in [Computer Science at Concordia University, Montreal](https://www.concordia.ca/academics/undergraduate/computer-science.html).
+- 🌐 **Background**: Moroccan with Canadian permanent residency, dedicated to leveraging technical skills to solve real-world problems.
+- 🌟 **Objective**: Aspiring to make a meaningful impact in software development, driven by continuous learning and hands-on project work.
+- 💡 **Interests**: AI, Game Development, Security, and Mobile/Desktop Development.
 
+---
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center"> 
@@ -60,12 +57,37 @@
 
 ---
 
-### 🛠️ **Tech Stack**
+## 🛠️ **Tech Stack**
 - **Languages:** Java, C#/C/C++, Assembly, JavaScript, HTML/CSS
 - **Frameworks & Tools:** Unity, Git, GitHub, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse, Blender (3D)
 - **Operating Systems:** Windows Vista to 11, Windows Server 2016 to 2019, Linux (Ubuntu / Kali / Raspbian), macOS
 - **Problem-Solving:** Known for strong analytical and problem-solving skills with a focus on clean and efficient code.
 - **Extras:** Experience in 3D modeling, sculpting, and texturing, as well as basic encryption and GUI design.
+
+---
+
+## 📝 **Projects**
+- **[Cross-Platform Password Manager](https://github.com/Silent0Wings/Cross-Platform-Password-Manager)** | Java  
+  Developed a Java-based password manager with AES 256-bit encryption for secure multi-platform use.  
+  *Key Concepts*: Encryption, CLI, customizable UI.
+
+- **[Client Profile Chat Manager](https://github.com/Silent0Wings/ChatManager)** | Java  
+  An efficient client profile management tool with data validation and modular architecture.
+
+- **[TA Management System](https://github.com/Silent0Wings/TA-Management-System)** | C++  
+  Manages and validates teaching assistant records with a focus on data processing.
+
+- **[Unity Pathfinders Visualizer](https://github.com/Silent0Wings/Unity-Pathfinders-Visualizer)** | C#, Unity  
+  Visualized BFS, DFS, and Swarm algorithms in Unity, showcasing AI and graph traversal techniques.
+
+- **[Auto Object Pooler](https://github.com/Silent0Wings/Unity-SimpleObjectPooler)** | C#, Unity  
+  Enhanced performance with an object pooling system for resource management.
+
+- **[Hybrid Caesar Cipher Encryption System](https://github.com/Silent0Wings/Hybrid-Caesar-Cipher-Encryption-System)** | Java  
+  Advanced Caesar cipher with additional security layers for data encryption.
+
+- **[Dynamic Bridge Builder](https://github.com/Silent0Wings/DynamicBridgeBuilder-Procedural-Generation-Toolkit-for-Unity)** | C#, Unity  
+  A toolkit for procedural bridge generation with real-time physics-based adaptability.
 
 ---
 
@@ -75,13 +97,12 @@
   </a> 
 </p>
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silent0wings&show_icons=true&locale=en" alt="silent0wings" /></p> 
-
 
 <h3 align="center">Connect with Me</h3>
 <p align="center">
-  <a href="https://github.com/Silent0Wings">GitHub</a>
+  <a href="https://github.com/Silent0Wings">GitHub</a> | 
+  <a href="https://ca.linkedin.com/in/yahya-bel?trk=profile-badge">LinkedIn</a>
 </p>
 
 ---
