@@ -1,12 +1,8 @@
 # 👋 Hi, I'm Silent0Wings
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
-
-
 <div style="text-align: left;">
-  <img src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif" alt="Coding GIF" width="480" height="360" />
+  <img src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif" alt="Coding GIF" width="240" height="180" />
 </div>
-
 
 
 <div style="text-align: left;">
@@ -122,5 +118,10 @@
 </p>
 
 ---
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
+
+
 
 <p align="center">Let's connect and collaborate on exciting projects!</p>
