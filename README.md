@@ -115,7 +115,7 @@
 
 ---
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark&lang=en)
 
 
 <p align="center">Let's connect and collaborate on exciting projects!</p>
