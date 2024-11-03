@@ -1,5 +1,12 @@
 # 👋 Hi, I'm Silent0Wings
 
+<p align="center">Let's connect and collaborate on exciting projects!</p>
+
+<p align="center">
+  <a href="https://github.com/Silent0Wings"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://ca.linkedin.com/in/yahya-bel?trk=profile-badge"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
 <div style="text-align: left;">
   <img src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif" alt="Coding GIF" width="240" height="180" />
 </div>
@@ -115,12 +122,3 @@
 ---
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark&lang=en)
-
-
-<p align="center">Let's connect and collaborate on exciting projects!</p>
-
-<p align="center">
-  <a href="https://github.com/Silent0Wings"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://ca.linkedin.com/in/yahya-bel?trk=profile-badge"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
-
