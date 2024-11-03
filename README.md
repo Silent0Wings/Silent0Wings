@@ -1,8 +1,19 @@
 # 👋 Hi, I'm Silent0Wings
 
-<div align="center">
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
+
+
+<div style="text-align: left;">
+  <img src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif" alt="Coding GIF" width="480" height="360" />
+</div>
+
+
+
+<div style="text-align: left;">
   <img src="https://profile-counter.glitch.me/Silent0Wings/count.svg?" />
 </div>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Silent0Wings.Silent0Wings)
 
 ---
 
@@ -93,10 +104,13 @@
 
 ---
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=silent0wings" alt="silent0wings" />
-  </a> 
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Silent0Wings&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Silent0Wings&theme=algolia" alt="Trophy" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silent0wings&show_icons=true&locale=en" alt="silent0wings" /></p> 
