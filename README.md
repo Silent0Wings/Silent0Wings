@@ -93,7 +93,7 @@
 - **[Dynamic Bridge Builder](https://github.com/Silent0Wings/DynamicBridgeBuilder-Procedural-Generation-Toolkit-for-Unity)** | C#, Unity  
   A toolkit for procedural bridge generation with real-time physics-based adaptability.
 
-- **[Unity Pathfinders Visualizer](https://github.com/Silent0Wings/Unity-Pathfinders-Visualizer)** | C#, Unity  
+- **[Unity Pathfinders Visualizer]([https://github.com/Silent0Wings/Unity-Pathfinders-Visualizer](https://github.com/Silent0Wings/UnityAI-FSM-SimpleAgentBehavior))** | C#, Unity  
   Visualized BFS, DFS, and Swarm algorithms in Unity, showcasing AI and graph traversal techniques.
 
 - **[Client Profile Chat Manager](https://github.com/Silent0Wings/ChatManager)** | Java  
