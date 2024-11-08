@@ -83,27 +83,32 @@
 
 ## 📝 **Projects**
 - **[Cross-Platform Password Manager](https://github.com/Silent0Wings/Cross-Platform-Password-Manager)** | Java  
-  Developed a Java-based password manager with AES 256-bit encryption for secure multi-platform use.  
-  *Key Concepts*: Encryption, CLI, customizable UI.
+  Developed a Java-based password manager using AES 256-bit encryption for secure, multi-platform use.  
+  *Key Concepts*: Encryption, CLI, Customizable UI.
 
 - **[FSM AI for Game Development](https://github.com/Silent0Wings/FSM-AI-Project)** | C#, Unity  
   Implemented a Finite State Machine (FSM) for NPC behavior, enabling dynamic and responsive AI in Unity-based games.  
   *Key Concepts*: AI, State Machines, Game Development.
 
 - **[Dynamic Bridge Builder](https://github.com/Silent0Wings/DynamicBridgeBuilder-Procedural-Generation-Toolkit-for-Unity)** | C#, Unity  
-  A toolkit for procedural bridge generation with real-time physics-based adaptability.
+  Created a toolkit for procedural bridge generation with real-time physics-based adaptability.  
+  *Key Concepts*: Procedural Generation, Physics, Toolkit Development.
 
-- **[Unity Pathfinders Visualizer]([https://github.com/Silent0Wings/Unity-Pathfinders-Visualizer](https://github.com/Silent0Wings/UnityAI-FSM-SimpleAgentBehavior))** | C#, Unity  
-  Visualized BFS, DFS, and Swarm algorithms in Unity, showcasing AI and graph traversal techniques.
+- **[Unity Pathfinders Visualizer](https://github.com/Silent0Wings/UnityAI-FSM-SimpleAgentBehavior)** | C#, Unity  
+  Visualized BFS, DFS, and Swarm algorithms in Unity, showcasing AI and graph traversal techniques.  
+  *Key Concepts*: Pathfinding, AI Visualization, Graph Traversal.
 
 - **[Client Profile Chat Manager](https://github.com/Silent0Wings/ChatManager)** | Java  
-  An efficient client profile management tool with data validation and modular architecture.
+  Developed a client profile management tool with data validation and a modular architecture.  
+  *Key Concepts*: Data Validation, Modular Design, Client Management.
 
 - **[Auto Object Pooler](https://github.com/Silent0Wings/Unity-SimpleObjectPooler)** | C#, Unity  
-  Enhanced performance with an object pooling system for resource management.
+  Enhanced performance with an object pooling system for efficient resource management.  
+  *Key Concepts*: Object Pooling, Performance Optimization, Resource Management.
 
 - **[Hybrid Caesar Cipher Encryption System](https://github.com/Silent0Wings/Hybrid-Caesar-Cipher-Encryption-System)** | Java  
-  Advanced Caesar cipher with additional security layers for data encryption.
+  Created an advanced Caesar cipher with additional security layers for enhanced data encryption.  
+  *Key Concepts*: Encryption, Security Layers, Data Protection.
 
 ---
 
