@@ -86,7 +86,7 @@
   Developed a Java-based password manager using AES 256-bit encryption for secure, multi-platform use.  
   *Key Concepts*: Encryption, CLI, Customizable UI.
 
-- **[FSM AI for Game Development](https://github.com/Silent0Wings/FSM-AI-Project)** | C#, Unity  
+- **[FSM AI for Game Development](https://github.com/Silent0Wings/UnityAI-FSM-SimpleAgentBehavior)** | C#, Unity  
   Implemented a Finite State Machine (FSM) for NPC behavior, enabling dynamic and responsive AI in Unity-based games.  
   *Key Concepts*: AI, State Machines, Game Development.
 
