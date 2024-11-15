@@ -7,19 +7,33 @@
 </p>
 
 # 👋 Hi, I'm Silent0Wings
-<p align="center">Let's connect and collaborate on exciting projects!</p>
+<p align ="center">Let's connect and collaborate on exciting projects!</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Silent0Wings/count.svg?" alt="Profile Counter" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Silent0Wings.Silent0Wings" alt="Visitor Badge" />
+</p>
 
 
 
-<div style="text-align: left;">
-  <img src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif" alt="Coding GIF" width="240" height="180" />
-</div>
 
-<div style="text-align: left;">
-  <img src="https://profile-counter.glitch.me/Silent0Wings/count.svg?" />
-</div>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Silent0Wings.Silent0Wings)
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif" alt="Coding GIF" width="240" height="240" />
+  <img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" alt="Second GIF" width="240" height="240" />
+  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" alt="Third GIF" width="240" height="240" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Fourth GIF" width="240" height="240" />
+</p>
+
+
+
+
+
 
 ---
 
