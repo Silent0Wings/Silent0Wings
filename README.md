@@ -1,4 +1,4 @@
-![Banner](https://github.com/Silent0Wings/Silent0Wings/blob/f8ac69d3c5820bd2163c4fb1548bf6d9b07e3d87/Yahya%20Bel%20(1).PNG)
+![Banner](https://github.com/Silent0Wings/Silent0Wings/blob/8334c95d6d7300514bb3f610940754205cc0f0b2/Yahya%20Bel%20(2).png)
 <p align="center">
   <a href="https://github.com/Silent0Wings">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="200">
