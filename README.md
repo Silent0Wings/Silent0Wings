@@ -31,14 +31,6 @@
 
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif" alt="Coding GIF" width="240" height="240" />
-  <img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" alt="Second GIF" width="240" height="240" />
-  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" alt="Third GIF" width="240" height="240" />
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Fourth GIF" width="240" height="240" />
-</p>
-
-
 
 
 
