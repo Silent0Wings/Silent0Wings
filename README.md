@@ -5,6 +5,8 @@
 <p align="center">
   <a href="https://github.com/Silent0Wings"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://ca.linkedin.com/in/yahya-bel?trk=profile-badge"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.artstation.com/invictus_fulgur"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white"></a>
+
 </p>
 
 <div style="text-align: left;">
