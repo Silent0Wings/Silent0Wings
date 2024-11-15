@@ -23,10 +23,10 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif" alt="Coding GIF" width="220" height="220" />
-  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" alt="Network Connectivity GIF" width="220" height="220" />
-  <img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" alt="Second GIF" width="220" height="220" />
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Fourth GIF" width="220" height="220" />
+  <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif" alt="Coding GIF" width="200" height="200" />
+  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" alt="Network Connectivity GIF" width="200" height="200" />
+  <img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" alt="Second GIF" width="200" height="200" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Fourth GIF" width="200" height="200" />
 </p>
 
 ---
