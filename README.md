@@ -11,9 +11,6 @@
   </a>
 </p>
 
-
-
-
 # 👋 Hi, I'm Silent0Wings
 <p align ="center">Let's connect and collaborate on exciting projects!</p>
 
@@ -25,21 +22,12 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Silent0Wings.Silent0Wings" alt="Visitor Badge" />
 </p>
 
-
-
 <p align="center">
-  <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif" alt="Coding GIF" width="240" height="240" />
-  <img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" alt="Second GIF" width="240" height="240" />
-  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" alt="Network Connectivity GIF" width="240" height="240" />
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Fourth GIF" width="240" height="240" />
+  <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif" alt="Coding GIF" width="220" height="220" />
+  <img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" alt="Second GIF" width="220" height="220" />
+  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" alt="Network Connectivity GIF" width="220" height="220" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Fourth GIF" width="220" height="220" />
 </p>
-
-
-
-
-
-
-
 
 ---
 
