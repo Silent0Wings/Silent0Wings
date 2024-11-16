@@ -15,7 +15,6 @@
   </a>
 </p>
 
-
 # 👋 Hi, I'm Silent0Wings
 <p align ="center">Let's connect and collaborate on exciting projects!</p>
 
@@ -43,10 +42,13 @@
 ---
 
 ### 🚀 **About Me**
-- 🎓 **Education**: Pursuing a Bachelor's degree in [Computer Science at Concordia University, Montreal](https://www.concordia.ca/academics/undergraduate/computer-science.html).
+- 🎓 **Education**: Pursuing a Bachelor's degree in
+  - [Computer Science at Concordia University, Montreal](https://www.concordia.ca/academics/undergraduate/computer-science.html).  
   - [Program Structure](https://www.concordia.ca/academics/undergraduate/calendar/current/section-71-gina-cody-school-of-engineering-and-computer-science/section-71-70-department-of-computer-science-and-software-engineering/section-71-70-2-degree-requirements-bcompsc-.html)
 - 🌟 **Objective**: Aspiring to make a meaningful impact in software development, driven by continuous learning and hands-on project work.
 - 💡 **Interests**: AI, Game Development, Security, and Mobile/Desktop Development.
+- 🌍 **Languages**: Fluent in English, French, and Arabic.
+- 🤝 **Collaboration**: Open to innovative projects and tech discussions.
 
 ---
 
@@ -91,10 +93,10 @@
   <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original-wordmark.svg" alt="unreal engine" width="40" height="40"/> 
   </a>
-
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=silent0wings&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=silent0wings&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
@@ -144,11 +146,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Silent0Wings&theme=algolia" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Silent0Wings&theme=darkhub" alt="Trophy" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=silent0wings&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=silent0wings&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
 
 ---
