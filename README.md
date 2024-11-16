@@ -1,16 +1,20 @@
 ![Banner](https://github.com/Silent0Wings/Silent0Wings/blob/8334c95d6d7300514bb3f610940754205cc0f0b2/Yahya%20Bel%20(2).png)
 
 <p align="center">
-  <a href="https://github.com/Silent0Wings">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="200">
-  </a><a href="https://ca.linkedin.com/in/yahya-bel?trk=profile-badge">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="200">
-  </a><a href="https://invictus_fulgur.artstation.com/">
-    <img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" width="200">
-  </a><a href="https://sketchfab.com/Invictus_fulgur">
-    <img src="https://img.shields.io/badge/Sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white" width="200">
+  <a href="https://github.com/Silent0Wings" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="200" alt="GitHub">
+  </a>
+  <a href="https://ca.linkedin.com/in/yahya-bel?trk=profile-badge" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="200" alt="LinkedIn">
+  </a>
+  <a href="https://sketchfab.com/Invictus_fulgur" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white" width="200" alt="Sketchfab">
+  </a>
+  <a href="https://invictus_fulgur.artstation.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" width="200" alt="ArtStation">
   </a>
 </p>
+
 
 # 👋 Hi, I'm Silent0Wings
 <p align ="center">Let's connect and collaborate on exciting projects!</p>
