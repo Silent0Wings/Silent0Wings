@@ -1,4 +1,8 @@
-![Banner](https://github.com/Silent0Wings/Silent0Wings/blob/8334c95d6d7300514bb3f610940754205cc0f0b2/Yahya%20Bel%20(2).png)
+<div align="center">
+  <a href="https://ca.linkedin.com/in/yahya-bel">
+    <img src="https://github.com/Silent0Wings/Silent0Wings/blob/8334c95d6d7300514bb3f610940754205cc0f0b2/Yahya%20Bel%20(2).png" alt="Banner">
+  </a>
+</div>
 
 <p align="center">
   <a href="https://github.com/Silent0Wings" target="_blank" rel="noopener noreferrer">
@@ -157,5 +161,8 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark&lang=en)
 
-[![Banner](https://github.com/Silent0Wings/Silent0Wings/blob/2c1ff0ca266126263b5566a17a60fa2ac09fa805/invictus_fulgur.png)](https://invictus_fulgur.artstation.com/)
-
+<div align="center">
+  <a href="https://invictus_fulgur.artstation.com/">
+    <img src="https://github.com/Silent0Wings/Silent0Wings/blob/2c1ff0ca266126263b5566a17a60fa2ac09fa805/invictus_fulgur.png" alt="Banner">
+  </a>
+</div>
