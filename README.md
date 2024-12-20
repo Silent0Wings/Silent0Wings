@@ -118,6 +118,9 @@
 - **[Cross-Platform Password Manager](https://github.com/Silent0Wings/Cross-Platform-Password-Manager)** | Java  
   Developed a Java-based password manager using AES 256-bit encryption for secure, multi-platform use.  
   *Key Concepts*: Encryption, CLI, Customizable UI.
+  
+- **[RayCast Renderer](https://github.com/Silent0Wings/RayCast-Renderer)** | C++  
+  RayCast Renderer generates 2D images from 3D scenes by casting rays to detect intersections with object surfaces. Each triangle has assigned properties, like colors, which are used to create the final image. It focuses on direct rendering without simulating light bounces, ensuring efficiency and clarity.
 
 - **[FSM AI for Game Development](https://github.com/Silent0Wings/UnityAI-FSM-SimpleAgentBehavior)** | C#, Unity  
   Implemented a Finite State Machine (FSM) for NPC behavior, enabling dynamic and responsive AI in Unity-based games.  
