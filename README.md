@@ -26,6 +26,10 @@
   <img src="https://profile-counter.glitch.me/Silent0Wings/count.svg?" alt="Profile Counter" />
 </p>
 
+
+<p align="center">
+  <img src="https://github.com/Silent0Wings/Silent0Wings/blob/2cb5a83d6a4d249309576ed18752c7da7474580c/Silent0WingsGif.gif" />
+</p>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Silent0Wings.Silent0Wings" alt="Visitor Badge" />
 </p>
