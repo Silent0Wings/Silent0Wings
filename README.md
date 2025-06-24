@@ -6,18 +6,19 @@
 
 <p align="center">
   <a href="https://github.com/Silent0Wings" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="170" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="vertical-align: middle; height: 40px;" alt="GitHub">
   </a>
   <a href="https://ca.linkedin.com/in/yahya-bel?trk=profile-badge" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="200" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align: middle; height: 40px;" alt="LinkedIn">
   </a>
   <a href="https://sketchfab.com/Invictus_fulgur" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white" width="216" alt="Sketchfab">
+    <img src="https://img.shields.io/badge/Sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white" style="vertical-align: middle; height: 40px;" alt="Sketchfab">
   </a>
   <a href="https://invictus_fulgur.artstation.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" width="232" alt="ArtStation">
+    <img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" style="vertical-align: middle; height: 40px;" alt="ArtStation">
   </a>
 </p>
+
 
 # 👋 Hi, I'm Silent0Wings
 <p align ="center">Let's connect and collaborate on exciting projects!</p>
