@@ -166,9 +166,3 @@
 ---
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark&lang=en)
-
-<div align="center">
-  <a href="https://invictus_fulgur.artstation.com/">
-    <img src="https://github.com/Silent0Wings/Silent0Wings/blob/2c1ff0ca266126263b5566a17a60fa2ac09fa805/invictus_fulgur.png" alt="Banner">
-  </a>
-</div>
