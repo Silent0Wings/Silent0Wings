@@ -11,12 +11,6 @@
   <a href="https://ca.linkedin.com/in/yahya-bel?trk=profile-badge" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align: middle; height: 40px;" alt="LinkedIn">
   </a>
-  <a href="https://sketchfab.com/Invictus_fulgur" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white" style="vertical-align: middle; height: 40px;" alt="Sketchfab">
-  </a>
-  <a href="https://invictus_fulgur.artstation.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" style="vertical-align: middle; height: 40px;" alt="ArtStation">
-  </a>
 </p>
 
 
