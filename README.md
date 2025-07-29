@@ -18,8 +18,9 @@
 <p align ="center">Let's connect and collaborate on exciting projects!</p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Silent0Wings/count.svg?" alt="Profile Counter" />
+  <img src="https://komarev.com/ghpvc/?username=Silent0Wings&color=blue" alt="Profile views" />
 </p>
+
 
 
 <p align="center">
