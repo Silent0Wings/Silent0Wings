@@ -39,8 +39,6 @@
 
 ## 💻 **Computer Science Student | Software Developer | Tech Enthusiast**
 
-<h3 align="center">A passionate developer from Canada with Moroccan roots</h3>
-
 ---
 
 ### 🚀 **About Me**
