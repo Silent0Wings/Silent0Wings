@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://ca.linkedin.com/in/yahya-bel">
-    <img src="https://github.com/Silent0Wings/Silent0Wings/blob/8334c95d6d7300514bb3f610940754205cc0f0b2/Yahya%20Bel%20(2).png" alt="Banner">
+    <img src="https://github.com/Silent0Wings/Silent0Wings/blob/a2b915b8ac787a3817acc4b64152bf592891f944/Yahya_bel.png" alt="Banner">
   </a>
 </div>
 
