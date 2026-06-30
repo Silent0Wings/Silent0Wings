@@ -1,15 +1,10 @@
 <div align="center">
-  <a href="https://ca.linkedin.com/in/yahya-bel">
     <img src="https://github.com/Silent0Wings/Silent0Wings/blob/b63417c8357e3e531b855c4cad37dc5c085ca98f/lb.png" alt="Banner">
-  </a>
 </div>
 
 <p align="center">
   <a href="https://github.com/Silent0Wings" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="vertical-align: middle; height: 40px;" alt="GitHub">
-  </a>
-  <a href="https://ca.linkedin.com/in/yahya-bel?trk=profile-badge" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align: middle; height: 40px;" alt="LinkedIn">
   </a>
 </p>
 
